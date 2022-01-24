@@ -14,10 +14,10 @@ Cada algoritmo e estrutura de dado possui seu próprio README com explicações 
 |  ![](https://badgen.net/badge/nivel/★★★/red?)|  Nível Avançado |
 
 ## Estrutura de Dados
-- ![](https://badgen.net/badge/nivel/★/green?) Pilha (Stack)
-- ![](https://badgen.net/badge/nivel/★/green?) Fila (Queue)
+- ![](https://badgen.net/badge/nivel/★/green?) [Pilha (Stack)](https://github.com/iuryrosal/algorithms-step0ne-course/blob/main/src-br/estrutura-de-dados/pilha/README-BR.md)
+- ![](https://badgen.net/badge/nivel/★/green?) [Fila (Queue)](https://github.com/iuryrosal/algorithms-step0ne-course/tree/main/src-br/estrutura-de-dados/filas)
 - ![](https://badgen.net/badge/nivel/★/green?) Lista Encadeada (Linked List)
-- ![](https://badgen.net/badge/nivel/★/green?) Lista Duplamente Encadeada (Doubly Linked List)
+- ![](https://badgen.net/badge/nivel/★/green?) [Lista Duplamente Encadeada (Doubly Linked List)](https://github.com/iuryrosal/algorithms-step0ne-course/tree/main/src-br/estrutura-de-dados/listas-duplamente-encadeadas)
 - Árvores
-  - ![](https://badgen.net/badge/nivel/★★/orange?) Árvore Binária
+  - ![](https://badgen.net/badge/nivel/★★/orange?) [Árvore Binária](https://github.com/iuryrosal/algorithms-step0ne-course/blob/main/src-br/estrutura-de-dados/arvores/arvore-binaria/README-br.md)
   - ![](https://badgen.net/badge/nivel/★★★/red?) Árvore Rubro-Negra
